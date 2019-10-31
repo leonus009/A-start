@@ -93,7 +93,20 @@ left:8px;
   background-color: forestgreen;
   transition: 1s;
 }
-
+#ooo3{
+  position: relative;
+  left: 60px;
+  top: -15px;
+  border: 2px solid aquamarine;
+  background-color: darkseagreen;
+  width:50px;
+  height: 90px;
+  border-radius: 50px;
+}
+#ooo3:hover {
+  background-color: forestgreen;
+  transition: 1s;
+}
 #o4
 #o5
 #o6
