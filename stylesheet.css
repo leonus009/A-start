@@ -2,26 +2,98 @@ p {
 font-family:cursive;
 
 }
-#uwu {
-background-color: lavender;
-width: 75px;
+#o1 {
+background-color: green;
+width: 60px;
 height: 75px;
 border-radius: 75px;
+position: relative;
+left:35px;
+down:40px;
+border: 3px solid green;
 }
 
-#uwu:hover {
-  background-color: gold;
+#o1:hover {
+  background-color: chartreuse;
 transition: 2s;
 }
 
-#owo {
-  box-shadow:0px 0px 8px 0px black;
-  background-color: aqua;
-  width:75px;
-  height:50px;
+#o2 {
+  position: relative;
+  left: 40px;
+  down: 60px ;
+  border: 2px solid darkgreen;
+  background-color: lightgreen;
+  width:40px;
+  height:80px;
+  border-radius: 120px;
+}
+
+#o2:hover {
+  background-color: greenyellow;
+transition: 2s;
+}
+#oo2 {
+  position: relative;
+  left: 40px;
+  down: 25px ;
+  border: 2px solid olive;
+  background-color: yellow;
+  width:40px;
+  height:65px;
   border-radius: 75px;
 }
-#owo:hover {
-  background-color: chocolate;
+#oo2:hover {
+  background-color: green;
 transition: 2s;
+left:5px;
 }
+
+#ooo2 {
+  position: relative;
+  left: 50px;
+  bottom: 10px ;
+  border: 2px solid olive;
+  background-color: limegreen;
+  width:40px;
+  height:65px;
+  border-radius: 75px;
+}
+#ooo2:hover {
+  background-color: palegreen;
+transition: 2s;
+left:8px;
+}
+
+#o3{
+  position: relative;
+  left: 60px;
+  top: -15px;
+  border: 2px solid green;
+  background-color: seagreen;
+  width:60px;
+  height: 75px;
+  border-radius: 90px;
+}
+#o3:hover {
+  background-color: mediumseagreen;
+  transition: 1s;
+}
+#oo3{
+  position: relative;
+  left: 60px;
+  top: -30px;
+  border: 2px solid lime;
+  background-color: seagreen;
+  width:50px;
+  height: 90px;
+  border-radius: 50px;
+}
+#oo3:hover {
+  background-color: forestgreen;
+  transition: 1s;
+}
+
+#o4
+#o5
+#o6
