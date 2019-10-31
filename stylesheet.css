@@ -3,32 +3,30 @@ font-family:cursive;
 
 }
 #o1 {
-background-color: chartreuse;
+background-color: green;
 width: 60px;
 height: 75px;
-border-radius: 75px;}
-
-div.relative {
+border-radius: 75px;
 position: relative;
-left:40px;
+left:35px;
 down:40px;
 border: 3px solid green;
 }
 
 #o1:hover {
-  background-color: green;
-transition: 3s;
+  background-color: chartreuse;
+transition: 2s;
 }
 
 #o2 {
   position: relative;
   left: 40px;
-  down: 25px ;
-  border: 2px solid olive;
+  down: 60px ;
+  border: 2px solid darkgreen;
   background-color: lightgreen;
   width:40px;
-  height:65px;
-  border-radius: 75px;
+  height:80px;
+  border-radius: 120px;
 }
 
 #o2:hover {
@@ -37,32 +35,65 @@ transition: 2s;
 }
 #oo2 {
   position: relative;
-  left: 80px;
+  left: 40px;
   down: 25px ;
   border: 2px solid olive;
-  background-color: lightgreen;
+  background-color: yellow;
   width:40px;
   height:65px;
   border-radius: 75px;
 }
 #oo2:hover {
-  background-color: greenyellow;
+  background-color: green;
 transition: 2s;
+left:5px;
 }
-#o3{
+
+#ooo2 {
   position: relative;
   left: 50px;
-  top: 15px;
+  bottom: 10px ;
+  border: 2px solid olive;
+  background-color: limegreen;
+  width:40px;
+  height:65px;
+  border-radius: 75px;
+}
+#ooo2:hover {
+  background-color: palegreen;
+transition: 2s;
+left:8px;
+}
+
+#o3{
+  position: relative;
+  left: 60px;
+  top: -15px;
   border: 2px solid green;
   background-color: seagreen;
-  width:50px;
-  height: 70px;
+  width:60px;
+  height: 75px;
   border-radius: 90px;
 }
 #o3:hover {
-  background-color: teal;
+  background-color: mediumseagreen;
   transition: 1s;
 }
+#oo3{
+  position: relative;
+  left: 60px;
+  top: -30px;
+  border: 2px solid lime;
+  background-color: seagreen;
+  width:50px;
+  height: 90px;
+  border-radius: 50px;
+}
+#oo3:hover {
+  background-color: forestgreen;
+  transition: 1s;
+}
+
 #o4
 #o5
 #o6
